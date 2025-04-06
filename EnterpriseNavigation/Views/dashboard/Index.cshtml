@@ -1,0 +1,88 @@
+﻿@{
+    ViewData["Isdashboard"] = true; 
+}
+
+
+<div class="row mb-4">
+
+    @* income widget  *@
+    <div class="col-md-4">
+        <div class="d-flex flex-row Widget summary income ">
+            <div class="d-flex flex-colum justify-content-center p-5">
+            <i class="fa-solid fa-dollar-sign"></i>
+        </div>
+        <div class="d-flex flex-column  m-auto py-3">
+            <div class="lead"> Total Income</div>
+            <div class="fw-bold     display-6"> @ViewBag.Income</div>
+
+        </div>
+
+    </div>
+    </div>
+
+
+    @* expense widget *@
+    <div class="col-md-4">
+        <div class="d-flex flex-row Widget summary expense ">
+            <div class="d-flex flex-colum justify-content-center p-5">
+                <i class="fa-solid fa-dollar-sign"></i>
+            </div>
+            <div class="d-flex flex-column  m-auto py-3">
+                <div class="lead"> Total Expense</div>
+                <div class="fw-bold     display-6"> @ViewBag.Expense</div>
+
+            </div>
+
+        </div>
+    </div>
+
+    @* balance widget *@
+    <div class="col-md-4">
+
+        <div class="d-flex flex-row Widget summary balance ">
+                <div class="d-flex flex-colum justify-content-center p-5">
+                    <i class="fa-solid fa-dollar-sign"></i>
+                </div>
+                <div class="d-flex flex-column  m-auto py-3">
+                    <div class="lead"> Total Balance</div>
+                    <div class="fw-bold     display-6"> @ViewBag.Balance</div>
+
+                </div>
+
+            </div>
+        </div>
+
+</div>
+
+<div class="row mb-4">
+    <div class="col-md-4">
+        <div class="Widget chart"
+            <div class="p-4">
+                <h5 class="fa-bold">Expense By category</h5>
+            </div>
+
+            <ejs-accumulationchart id="doughnutchart" enableSmartLabels background="#1a222b">
+                <e-accumulation-series-collection>
+                    <e-accumulation-series dataSource="@ViewBag.Expensbycategory"
+                                           xName="titleWithIcon" yName="Amount"
+                                           innerRadius="60%" legendShape="Circle"
+                                           palettes=@(new string[]{"#0e8d76","#a4b219","#cb9b00","#8a442c"})>
+                        <e-accumulationseries-datalabel name="formatedAmount" visible></e-accumulationseries-datalabel>
+                    </e-accumulation-series>
+                </e-accumulation-series-collection>
+                <e-accumulationchart-legendsettings position="Top" toggleVisibility="false">
+                    <e-legendsettings-textstyle color="#fff" size="1rem"></e-legendsettings-textstyle>
+                </e-accumulationchart-legendsettings>
+                <e-accumulationchart-tooltipsettings enable></e-accumulationchart-tooltipsettings>
+            </ejs-accumulationchart>
+
+          </div>
+    </div>
+
+    <div class="col-md-8">
+        <div class="Widget chart">
+            <div></div>
+        </div>
+
+    </div>
+</div>

@@ -1,0 +1,68 @@
+﻿@model EnterpriseNavigation.Models.Transaction
+
+@{
+    ViewData["PageTitle"] = Model.TransactionId == 0 ? "Create a new Transaction " : "Edit Transaction";
+
+}
+
+
+<div class="row">
+    <div class="col-md-7" style="background-color:#212b36">
+        <div class="Widget p-5 " style="background-color:#212b36">
+            <form asp-action="AddOrEdit" id="Formelement">
+
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input hidden asp-for="TransactionId" />
+
+                <div class="mb-3">
+                    <ejs-datepicker 
+                     format="yyyy-MM-dd"
+                                 id="date"   placeholder="Date" ejs-for="Date">
+                             </ejs-datepicker>
+
+                </div>
+                <div class="mb-3">
+                    <ejs-dropdownlist ejs-for="CategoryId" id="categorydll" 
+                                      dataSource="@ViewBag.Categories" placeholder="Category"
+                                      floatLabelType="Always" allowFiltering="true" ignoreAccent="true"
+                                      filterType="Contains" >
+                        
+                        <e-dropdownlist-fields text="TitleWithIcon" value="CategoryId">
+
+                        </e-dropdownlist-fields>
+                    </ejs-dropdownlist>
+                    <span asp-validation-for="CategoryId" class="text-danger es-6"></span>
+
+                </div>
+                <div class="mb-3">
+                    <ejs-numerictextbox id="amount" min="0"  
+                                        ejs-for="Amount" format="c0"  name="amount"
+                                        placeholder="Amount" floatLabelType="Always"></ejs-numerictextbox>
+                    <span asp-validation-for="Amount" class="text-danger es-6"></span>
+                </div>
+                <div class="mb-3">
+                    <ejs-textbox id="note" ejs-for="Note"
+                                 placeholder="Note" floatLabelType="Always"
+                                 multiline="true"></ejs-textbox>
+                    
+                </div>
+
+                <ejs-button id="submit" type="submit" content="Submit" cssClass="e-success"></ejs-button>
+            </form>
+        </div>
+    </div>
+
+    <div class="col-md-5">
+        <div class="widget h-100 d-flex justify-content-center align-items-center" style="background-color:#212b36">
+            <i class="fa-solid fa-money-bill-transfer"></i>
+        </div>
+    </div>
+</div>
+
+
+@* we will use client side validation from the syncfusion *@
+@* 
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+ *@

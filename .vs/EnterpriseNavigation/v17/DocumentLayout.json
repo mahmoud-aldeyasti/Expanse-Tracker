@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\views\\shared\\_sideviewpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\views\\shared\\_sideviewpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newentprisenavigation\\enterprisenavigation\\enterprisenavigation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE39FF-BEAF-485A-AB43-FAD7D62ADFFB}|EnterpriseNavigation\\EnterpriseNavigation.csproj|solutionrelative:enterprisenavigation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2049749531:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EnterpriseNavigation\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:43:50.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "EnterpriseNavigation\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:33:14.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\Category\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Views\\Category\\AddOrEdit.cshtml",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\Category\\AddOrEdit.cshtml",
+              "RelativeToolTip": "EnterpriseNavigation\\Views\\Category\\AddOrEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T00:24:58.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\Transaction\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Views\\Transaction\\AddOrEdit.cshtml",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\Transaction\\AddOrEdit.cshtml",
+              "RelativeToolTip": "EnterpriseNavigation\\Views\\Transaction\\AddOrEdit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T00:20:54.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "EnterpriseNavigation\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T00:09:41.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Models\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Models\\ApplicationDbcontext.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Models\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "EnterpriseNavigation\\Models\\ApplicationDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:57:54.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Models\\Category.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Models\\Category.cs",
+              "RelativeToolTip": "EnterpriseNavigation\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:57:52.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Models\\Transaction.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Models\\Transaction.cs",
+              "RelativeToolTip": "EnterpriseNavigation\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:44:07.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EnterpriseNavigation\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAFEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T19:11:21.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_SideViewPartial.cshtml",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\Shared\\_SideViewPartial.cshtml",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Views\\Shared\\_SideViewPartial.cshtml",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\Shared\\_SideViewPartial.cshtml",
+              "RelativeToolTip": "EnterpriseNavigation\\Views\\Shared\\_SideViewPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T19:10:40.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Program.cs",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Program.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Program.cs",
+              "RelativeToolTip": "EnterpriseNavigation\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:06:47.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Views\\dashboard\\Index.cshtml",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\dashboard\\Index.cshtml",
+              "RelativeToolTip": "EnterpriseNavigation\\Views\\dashboard\\Index.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T19:05:46.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboardController.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Controllers\\dashboardController.cs",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Controllers\\dashboardController.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Controllers\\dashboardController.cs",
+              "RelativeToolTip": "EnterpriseNavigation\\Controllers\\dashboardController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:05:09.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EnterpriseNavigation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\newEntpriseNavigation\\EnterpriseNavigation\\EnterpriseNavigation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EnterpriseNavigation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T22:27:18.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
